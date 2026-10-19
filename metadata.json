@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan & Counting",
+  "description": "Pakistan's premier economic media, research and business course platform with industry data decks, webinar masterclasses, and video explainers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
